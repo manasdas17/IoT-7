@@ -18,7 +18,7 @@
  *
  * Project:		HEIA-FR / Internet of Things Laboratory
  *
- * Abstract: 	        Project - Connected Weather Station
+ * Abstract:            Project - Connected Weather Station
  *
  * Purpose:		Derived class of nRF8001Device. This class offers the possiblities to send
  *                      temperature & humidity and to retrieve ACI events

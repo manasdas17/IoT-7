@@ -15,7 +15,7 @@
  *
  * Project:		HEIA-FR / Internet of Things Laboratory
  *
- * Abstract: 	        Project - Connected Weather Station
+ * Abstract:            Project - Connected Weather Station
  *
  * Purpose:		Main module to demonstrate and to test the Connected Weather Station
  *
